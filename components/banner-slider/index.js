@@ -17,8 +17,8 @@ const BannerSlider = () => {
     };
     return (
         <div><Slider {...settings}>
-            {DATA.map((slide) => {
-                return <div className='banner-slide'><img src={slide.image} /></div>
+            {DATA.map((slide,index) => {
+                return <div className='banner-slide' key={index}><img src={slide.image}/></div>
             })}
         </Slider></div>
     )
