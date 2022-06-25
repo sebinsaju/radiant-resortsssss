@@ -1,0 +1,9 @@
+export const DATA=[
+    {title:"Deluxe - Non AC",image:"/rooms/deluxe-nonac.jpg",desc:"Deluxe - Non AC Rooms at Radiant Resort Bangalore are among basic room types and come with utmost comfort.",link:"/rooms/standard-room"},
+    {title:"Deluxe Rooms (AC)",image:"/rooms/deluxe-ac.jpg",desc:"Spaciously built and elegantly furnished, Deluxe Rooms come with air conditioning and are the perfect retreat for the two of you.",link:"/rooms/deluxe-room"},
+    {title:"Executive Twin",image:"/rooms/executive-twin.jpg",desc:"Executive Twin Rooms at Radiant Resort Bangalore are the perfect hideaway if you are on vacation seeking tranquillity from mundane affairs.",link:"/rooms/club-room"},
+    {title:"Luxury Suite",image:"/rooms/luxury-suite.jpg",desc:"For a dose of absolute peace and tranquillity, slip into our state-of-the-art Suites that offer all conveniences. The Suites come with a separate living room.",link:"/rooms/suits"},
+    {title:"Wood House",image:"/room-4.jpg",desc:"Tastefully crafted to sync them with nature, Wood House at Radiant Resort Bangalore are built of wood and bamboo, and are shadowed by tall trees amidst lush greenery.",link:"/rooms/wood-house"},
+    {title:"Deluxe Suite - pool view",image:"/rooms/deluxe-suite.jpg",desc:"For a dose of absolute peace and tranquillity, slip into our state-of-the-art Suites that offer all conveniences. The Suites come with a separate living room.",link:"/"},
+    {title:"Studio Room",image:"/rooms/studio-room.jpg",desc:"Spaciously built and elegantly furnished, Deluxe Rooms come with air conditioning and are the perfect retreat for the two of you.",link:"/"},
+]
